@@ -1,3 +1,5 @@
+# Suspending this project for while. There is another project that seem to be going in the same direction using cuelang too will be using that instead. cuev
+
 # cuerun
 Alternative task runner for cuelang's `cue cmd`
 
